@@ -12,6 +12,27 @@ A small node-based JS program to enable users to hit a simple API to publish twe
 
 ### License
 Licensed under the AGPLv3 and copyright Nick Weingartner and Brian Anderson
+---
+
+###License
+
+Copyright (C) 2014 Nick Weingartner and Brian Anderson
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU Affero General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
 ### Contribute
-Please do!
+If you find a bug, please report it!
+If you think of a feature, please let us know!
+If you want to fix some code and/or extend, fork us and send a PR!
+
+Basically, feel free to hack and contribute!
