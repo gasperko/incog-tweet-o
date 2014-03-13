@@ -8,8 +8,7 @@ $('#tweet-it').click(function() {
             untweetableTweet: $('#untweetable-tweet').val()
         },
         success: function(response) {
-            alert('you have tweeted the untweetable!');
-           $('#untweetable-tweet').val(""); 
+            alert('you have tweeted it!'); 
         },
         failure: function(err) {
             alert('it has failed');
