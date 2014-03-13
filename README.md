@@ -16,7 +16,7 @@ Licensed under the AGPLv3 and copyright Nick Weingartner and Brian Anderson
 
 ###License
 
-Copyright (C) 2014 Nick Weingartner and Brian Anderson
+Copyright (C) 2014 Nick Weingartner [@PunkChameleon](http://www.twitter.com/PunkChameleon) and Brian Anderson [@AndersonBrianL](http://www.twitter.com/AndersonBrianL)
 
 This program is free software: you can redistribute it and/or modify
 it under the terms of the GNU Affero General Public License as published by
