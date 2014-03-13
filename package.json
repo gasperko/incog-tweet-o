@@ -1,0 +1,26 @@
+{
+  "name": "untweetable-tweets",
+  "version": "0.0.1",
+  "description": "top secret",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "grunt test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/streetlight/untweetable-tweets.git"
+  },
+  "keywords": [
+    "twitter"
+  ],
+  "author": "Nick Weingartner",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/streetlight/untweetable-tweets/issues"
+  },
+  "homepage": "https://github.com/streetlight/untweetable-tweets",
+  "dependencies": {
+    "ntwitter": "~0.5.0",
+    "express": "~3.4.8"
+  }
+}
