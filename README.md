@@ -10,10 +10,6 @@ A small node-based JS program to enable users to hit a simple API to publish twe
 4. Run the application (node .)
 5. Visit port 8000 and see it running locally
 
-### License
-Licensed under the AGPLv3 and copyright Nick Weingartner and Brian Anderson
----
-
 ###License
 
 Copyright (C) 2014 Nick Weingartner [@PunkChameleon](http://www.twitter.com/PunkChameleon) and Brian Anderson [@AndersonBrianL](http://www.twitter.com/AndersonBrianL)
