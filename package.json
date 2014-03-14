@@ -1,10 +1,11 @@
 {
   "name": "untweetable-tweets",
-  "version": "0.0.1",
+  "version": "0.0.1-10",
   "description": "top secret",
   "main": "lib/index.js",
   "scripts": {
-    "test": "grunt test"
+    "test": "grunt test",
+    "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
@@ -22,5 +23,9 @@
   "dependencies": {
     "ntwitter": "~0.5.0",
     "express": "~3.4.8"
+  },
+  "subdomain": "untweetable-tweets",
+  "engines": {
+    "node": "0.10.x"
   }
 }
