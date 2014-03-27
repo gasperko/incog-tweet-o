@@ -1,4 +1,4 @@
-# Untweetable Tweets
+# Incog-tweet-o
 A small node-based JS program to enable users to hit a simple API to publish tweets anonymously to a twitter feed.
 
 ### To install:
