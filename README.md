@@ -1,6 +1,4 @@
-# Gone, gone where?
-
-## Untweetable Tweets
+# Untweetable Tweets
 A small node-based JS program to enable users to hit a simple API to publish tweets anonymously to a twitter feed.
 
 ### To install:
