@@ -1,15 +1,14 @@
 {
-  "name": "untweetable-tweets",
+  "name": "incog-tweet-o",
   "version": "0.0.1-10",
-  "description": "top secret",
+  "description": "Anonymous twitter authentication via middleman server",
   "main": "lib/index.js",
   "scripts": {
-    "test": "grunt test",
     "start": "node lib/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/streetlight/untweetable-tweets.git"
+    "url": "https://github.com/streetlight/incog-tweet-o.git"
   },
   "keywords": [
     "twitter"
@@ -17,14 +16,13 @@
   "author": "Nick Weingartner",
   "license": "GPLv3",
   "bugs": {
-    "url": "https://github.com/streetlight/untweetable-tweets/issues"
+    "url": "https://github.com/streetlight/incog-tweet-o/issues"
   },
-  "homepage": "https://github.com/streetlight/untweetable-tweets",
+  "homepage": "https://github.com/streetlight/incog-tweet-o",
   "dependencies": {
     "ntwitter": "~0.5.0",
     "express": "~3.4.8"
   },
-  "subdomain": "untweetable-tweets",
   "engines": {
     "node": "0.10.x"
   }
