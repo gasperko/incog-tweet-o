@@ -1,7 +1,7 @@
 {
-  "name": "untweetable-tweets",
+  "name": "incog-tweet-o",
   "version": "0.0.1",
-  "homepage": "https://github.com/streetlight/untweetable-tweets",
+  "homepage": "https://github.com/streetlight/incog-tweet-o",
   "main": "public/index.html",
   "authors": [
     "Nick Weingartner"
