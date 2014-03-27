@@ -12,6 +12,19 @@ A small node-based JS program to enable users to hit a simple API to publish twe
  - Untweetable Tweets ([Untweetable Tweets](http://untweetable-tweets.nodejitsu.com))
  - Your next anonymous twitter app!
 
+### Potential Uses
+ - Can be used to circumvent firewalls
+ - Could be spun up and down in VMs for further obfuscation
+ - Can be used for convience
+ - Can be used for fun
+
+### Contribute
+If you find a bug, please report it!
+If you think of a feature, please let us know!
+If you want to fix some code and/or extend, fork us and send a PR!
+
+Basically, feel free to hack and contribute!
+
 ###License
 
 Copyright (C) 2014 Nick Weingartner [@PunkChameleon](http://www.twitter.com/PunkChameleon) and Brian Anderson [@AndersonBrianL](http://www.twitter.com/AndersonBrianL)
@@ -28,9 +41,4 @@ GNU General Public License for more details.
 
 You should have received a copy of the GNU Affero General Public License along with this program.  If not, see <http://www.gnu.org/licenses/>.
 
-### Contribute
-If you find a bug, please report it!
-If you think of a feature, please let us know!
-If you want to fix some code and/or extend, fork us and send a PR!
 
-Basically, feel free to hack and contribute!
